@@ -1,0 +1,321 @@
+body{
+    margin: auto;
+    margin-top: 30px;
+    width: 1440px;
+    height: 4527px;   
+    border: 2px solid #1d2450;
+    background: #111827 ;
+}
+header{
+    margin: auto;
+    margin-top: 30px;
+    width: 1170px;
+    height: 42px;
+    z-index: 5;
+}
+ul{
+    display: flex;  
+    margin-left: 485px;
+    margin-top: -39px;
+}
+li{
+    list-style: none;
+    margin-left: 50px;
+    width: 57px;
+    margin-top: 8px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 23px;  
+    color: #ffffff; 
+}
+li a{
+    color: rgb(255, 246, 246);
+    text-decoration: none;
+}
+li a:hover{
+    color: #ffffff94;
+}
+.optic:hover{
+    opacity: 0.5;
+}
+button{
+    width: 132px;
+    height: 48px;
+    background: linear-gradient(90.35deg, #2563EB 0.36%, #D946EF 150.02%);
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #F9FAFB;
+}
+section{
+    margin: auto;
+    width: 1285px;
+    height: 746px;
+    display: flex;  
+    z-index: 2;  
+}
+.virtual_realitiy{
+    width: 546px;
+    height: 168px;   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;background-image: url(/Virtual-Reality-Business/img/Virtual\ Reality\ Business\ Solutions.png);
+}
+.virtual_we_arelitiy{
+    width: 534px;
+    height: 59px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 30px;
+    color: #E5E7EB;
+    margin-top: 30px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.07);
+}
+.section_our_servico{
+    width: 1170px;
+    height: 889px;
+    margin: auto;
+    margin-top: 120px;
+}
+.our{
+    width: 237px;
+    height: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 55px;
+    margin-left: 455px;
+    color: #FFFFFF;
+}
+.our_weturn{
+    width: 587px;
+    height: 52px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 30px 285px;
+}
+.ordel_img_hover:hover{
+    -ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.)51;
+    transform: scale(1.1);     
+    border-radius: 12px;
+    background-color: #f3f0f000;  
+}
+aside{
+    width: 1205px;
+    height: 588px;
+    margin: auto;
+    margin-top: 100px;
+}
+.wecomplete{
+    width: 582px;
+    height: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 37px;
+    line-height: 55px;
+    color: #FFFFFF;
+    margin-top: 130px;
+}
+.wecomplete_lorem{
+    width: 579px;
+    height: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+.section_met_our_team{
+    width: 1170px;
+    height: 442px;
+    margin: auto;   
+    margin-top: 105px;
+}
+.helibu{
+    margin-left: 22px;
+    margin-top: 20px;
+}
+.met_our{
+    width: 285px;
+    height: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 55px;
+    color: #FFFFFF;
+    margin-left: 90px;
+}
+.met_lorem{
+    width: 480px;
+    height: 51px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+.met_box_our{
+    width: 270px;
+    height: 266px;
+    background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+    box-shadow: 0px 22px 18px rgba(0, 0, 0, 0.05);
+    border-radius: 34px;
+    margin-left: 15px;
+}
+.factr_data{
+    width: 158px;
+    height: 21px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-left: 50px;
+}
+          /* section'and'footer */
+.section5{
+    margin: auto;
+    width: 1170px;
+    height: 295px;
+    background: linear-gradient(180deg, rgba(254, 254, 255, 0.0145) 0%, rgba(255, 255, 255, 0.02) 100%);
+    box-shadow: 0px 22px 18px rgba(0, 0, 0, 0.05);
+    border-radius: 34px;
+    margin-top: 100px;
+}
+.chose1{
+    width: 671px;
+    height: 55px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 55px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.sec5nim{
+    display: inline-block;
+    margin: 35px 257px;
+}
+.lorem51{
+    width: 623px;
+    height: 56px;
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    color: #666666;
+}
+.sec5imput{
+    width: 860px;
+    height: 80px; 
+    background: linear-gradient(180deg, rgba(254, 254, 255, 0.0348) 0%, rgba(255, 255, 255, 0.048) 100%);
+    box-shadow: 10px 24px 54px rgba(0, 0, 0, 0.07);
+    border-radius: 70px;   
+    margin-left: -95px;
+}
+.se5imput_text{
+    width: 518px;
+    height: 30px;
+    background-color:  #66666600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    border: none;
+    color: #ffffff98;
+}
+.button_subcrise{
+    width: 196px;
+    height: 60px;
+    background: linear-gradient(90.35deg, #2563EB 0.36%, #D946EF 161.02%);
+    opacity: 0.9;
+    border-radius: 70px;
+}
+.oppo{
+    position: absolute;
+    margin: -10px 80px;
+}     
+
+
+footer{
+    margin: auto;
+    width: 1620px;
+    height: 359px;
+    margin-top: 95px;
+}
+.futrtebl_logo{
+    display:flex;
+    margin-left: 15px;
+}
+.logofuter{
+    width: 346px;
+    height: 64px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+    color: #666666;
+}
+.futrlogo{
+    margin: auto;
+    font-size: 30px;
+    width: 99px;
+    height: 37px;
+    color: black;
+    border: none;
+    background-color: #FFFFFF;
+}
+.futrlogo:hover{
+    color: blue;background-color: rgb(255, 255, 255);
+}
+table{
+    width: 255%;
+    text-align: left;  
+}
+.vosses{
+    width: 500px;
+    margin-left: 20px;
+}
+th{
+    font-size: 20px;
+}
+td{
+    padding: 5px;  
+}
+th a{
+    text-decoration: none;
+}
+th a:hover{
+    color: rgb(125, 125, 231);
+}
+td a{
+    text-decoration: none;
+}
+td a:hover{
+    color: red;
+}
